@@ -104,3 +104,7 @@ body{
     float: right;
 }
 
+.days-list{
+    display: flex;
+    list-style: none;
+}
